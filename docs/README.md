@@ -18,9 +18,11 @@ O dashboard analisa dados financeiros globais de uma empresa fictícia, permitin
 ---
 
 ## Preview do Dashboard
-![Dashboard](<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/6a727290-7655-4846-af61-8a642af913dd" />
+![Dashboard](<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/0e02a432-2f0d-4009-b6aa-e4e8b0ad954e" />
+
 )
 
 ## 📁 Arquivos
 - `Projeto_BI_Wesley.pbix`: Arquivo fonte do Power BI.
+
 
