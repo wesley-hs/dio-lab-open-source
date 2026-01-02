@@ -1,40 +1,26 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Projeto de Business Intelligence - Financial Analysis
 
-## Olá! Sou aluno do curso de BI na DIO e este projeto faz parte da minha jornada de aprendizado em Análise de Dados e Open Source.
+Este projeto foi desenvolvido como parte do curso de Business Intelligence da [DIO](https://www.dio.me/), com o objetivo de demonstrar habilidades em extração, modelagem e visualização de dados utilizando o Power BI Desktop.
 
-## Minhas Habilidades em BI
-Atualmente, estou focando no desenvolvimento das seguintes competências:
-
-Coleta e Extração de Dados: SQL, Python e ETL.
-
-Visualização de Dados: Power BI, Tableau e Looker.
-
-Análise Estatística: Dashboards interativos e KPIs de negócio.
-
-Documentação: Markdown para relatórios e Git para versionamento de projetos de dados.
 ## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+O dashboard analisa dados financeiros globais de uma empresa fictícia, permitindo identificar padrões de vendas, produtos mais rentáveis e performance por país.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+### Principais Insights:
+- **Métricas Globais:** Visualização rápida do Lucro Líquido Total.
+- **Performance de Produtos:** Identificação do volume de vendas por linha de produto.
+- **Análise Geográfica:** Filtros interativos por país (Canadá, França, Alemanha, México e EUA).
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## Tecnologias Utilizadas
+- **Power BI Desktop:** Modelagem e criação dos visuais.
+- **DAX:** Criação de medidas calculadas para análise de performance.
+- **Lógica de Negócio:** Aplicação de filtros de segmento e país.
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+---
+
+## Preview do Dashboard
+![Dashboard](<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/6a727290-7655-4846-af61-8a642af913dd" />
+)
+
+## 📁 Arquivos
+- `Projeto_BI_Wesley.pbix`: Arquivo fonte do Power BI.
 
